@@ -2,8 +2,7 @@
 
 body {
     text-align: center;
-    background-color: #2b2a33;
-    background-image: url("images/AffectionateDesertedGoa-max-1mb.gif");
+    background-color: #808080;
 }
 
 #input {
@@ -11,7 +10,7 @@ body {
     height: 35px;
     padding: 10px 10px;
     color:  #000000;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Arial', Courier, monospace;
     background: #2b2a33;
     font-size: 15.55px;
     border-radius: 10px;
