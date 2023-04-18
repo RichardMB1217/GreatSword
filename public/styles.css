@@ -2,7 +2,7 @@
 
 body {
     text-align: center;
-    background-color: #808080;
+    background-color: #1b1a1a;
 }
 
 #input {
@@ -11,17 +11,17 @@ body {
     padding: 10px 10px;
     color:  #000000;
     font-family: 'Arial', Courier, monospace;
-    background: #2b2a33;
+    background: #1c1b20;
     font-size: 15.55px;
     border-radius: 10px;
     border-color: #2b2a33;
     border-width: 1px;
-    border: 1px solid #7ee3fa;
+    border: 1px solid #000000;
     transition: all .5s ease-in-out;
 }
 
 #input:focus {
-	background-color: #7ee3fa;
+	background-color: #000000;
 	box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.5);
 }
 
@@ -31,13 +31,13 @@ body {
 
 #submit, .proxy {
     height: 56px;
-    color: #7ee3fa;
+    color: #ffffff;
     font-size: 14px;
     border-radius: 10px;
-    background: #2b2a33;
-    border: 1px solid #7ee3fa;
+    background: #39383a;
+    border: 1px solid #000000;
     font-family: 'Courier New', Courier, monospace;
-    border-color: #7ee3fa;
+    border-color: #000000;
     border-width: 1px;
     transition: 0.5s;
     padding: 10px;
@@ -45,17 +45,17 @@ body {
 
 #submit:hover, .proxy:hover {
     cursor: pointer;
-    background: #000000;
-    color: #7ee3fa;
+    background: #312f2f;
+    color: #fffafa;
 }
 
 .selected {
-    background-color: #7ee3fa;
+    background-color: #202121;
     color: black;
 }
 
 .navbar a {
-    color: #7ee3fa;
+    color: #ffffff;
     display: block;
     float: left;
     font-size: 15px;
@@ -71,7 +71,7 @@ body {
 }
 
 .navbar i {
-    color: grey;
+    color: #000000;
     display: block;
     float: left;
     font-family: 'Courier New', Courier, monospace;
@@ -88,17 +88,17 @@ body {
 
 .navbar a:hover {
     cursor: pointer;
-    border-color: rgb(133, 133, 133);
+    border-color: rgb(0, 0, 0);
     border-width: 2.5px;
     padding: 15px 20px;
 }
 
 .link {
-    color: #7ee3fa;
+    color: #000000;
 }
 
 .back a {
-    color: #7ee3fa;
+    color: #000000;
     display: block;
     float: left;
     font-size: 17px;
@@ -108,12 +108,12 @@ body {
     text-decoration: none;
     border-radius: 5px;
     border-width: 1px;
-    border: 1px solid #7ee3fa;
-    border-color: #7ee3fa;
+    border: 1px solid #000000;
+    border-color: #000000;
 }
 
 .back i {
-    color: #7ee3fa;
+    color: #000000;
     display: block;
     float: left;
     margin-left: 25px;
