@@ -9,7 +9,7 @@ body {
     width: 50%;
     height: 35px;
     padding: 10px 10px;
-    color:  #000000;
+    color:  #ffffff;
     font-family: 'Arial', Courier, monospace;
     background: #1c1b20;
     font-size: 15.55px;
@@ -51,7 +51,7 @@ body {
 
 .selected {
     background-color: #202121;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .navbar a {
@@ -71,7 +71,7 @@ body {
 }
 
 .navbar i {
-    color: #000000;
+    color: #ffffff;
     display: block;
     float: left;
     font-family: 'Courier New', Courier, monospace;
@@ -94,7 +94,7 @@ body {
 }
 
 .link {
-    color: #000000;
+    color: #ffffff;
 }
 
 .back a {
