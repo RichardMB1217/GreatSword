@@ -2,6 +2,8 @@
 
 # ONLY USE THE CSB LINKS
 
+## Greatsword info
+
 Simple proxy made with The Simple Unblocker, and Dm Unblocker.
 
 There are many things GreatSword provides that other proxies don't, such as an about:blank cloak,
