@@ -5,7 +5,7 @@ Simple proxy made with Node Unblocker, The Simple Unblocker, and Dm Unblocker.
 
 There are many things GreatSword provides that other proxies don't, such as an about:blank cloak,
 
-and a closable cloaked bookmarklet which you can open on any page.
+And a closable cloaked bookmarklet which you can open on any page.
 
 (Cloaked-Bookmarklet.js)
 
