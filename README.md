@@ -8,7 +8,7 @@ Simple proxy made with The Simple Unblocker, and Dm Unblocker.
 
 There are many things that make greatsword a great choice as a proxy,
 
-Like a closable cloaked bookmarklet iframe which you can open on any page, and close with the circle in the corner.
+Like an optional closable cloaked bookmarklet iframe which you can open on any page, and close with the circle in the corner.
 
 (Cloaked-Bookmarklet.js)
 
