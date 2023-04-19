@@ -1,6 +1,6 @@
 ![cooltext433913490790273](https://user-images.githubusercontent.com/119009502/232642357-8734207d-5cd0-4514-9190-d3fbffc2a056.png)
 
-# ONLY USE THE CSB LINKS
+####### ONLY USE THE CSB LINKS
 
 ## Greatsword info
 
@@ -18,5 +18,5 @@ This makes it a great choice for a proxy.
 
 # Showcase:
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/119009502/232937620-90699e75-c4d8-46a9-a04d-a31f4145b464.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119009502/232946809-ef774a0d-4b31-4226-a246-e2b5407cdde4.png">
 
