@@ -34,11 +34,11 @@ body {
     color: #ffffff;
     font-size: 14px;
     border-radius: 10px;
-    background: #39383a;
+    background: #2b2b2b;
     border: 1px solid #000000;
     font-family: 'Courier New', Courier, monospace;
     border-color: #000000;
-    border-width: 1px;
+    border-width: 0px;
     transition: 0.5s;
     padding: 10px;
 }
