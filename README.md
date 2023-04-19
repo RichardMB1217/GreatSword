@@ -1,5 +1,6 @@
 ![cooltext433913490790273](https://user-images.githubusercontent.com/119009502/232642357-8734207d-5cd0-4514-9190-d3fbffc2a056.png)
 
+# ONLY USE THE CSB LINKS
 
 Simple proxy made with The Simple Unblocker, and Dm Unblocker.
 
